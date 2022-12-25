@@ -1,0 +1,13 @@
+{
+    "token": "90938306|-31949273685447218|90952309",
+    "cmd": "UPDATE",
+    "dbName": "Employee",
+    "rel": "Emp-Rel",
+    "jsonStr": {
+       "2":{
+         "name": "vivek kumar singh",
+        "mobile no": 9931648101
+
+      }
+   }
+}

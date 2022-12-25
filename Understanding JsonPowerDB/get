@@ -1,0 +1,10 @@
+{
+    "token": "90938306|-31949273685447218|90952309",
+    "dbName": "Employee",
+    "cmd": "GET_BY_KEY",
+    "rel": "Emp-Rel",
+    "jsonStr": {
+        "name": "Vivek"
+    }
+
+}
